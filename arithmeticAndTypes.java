@@ -1,6 +1,6 @@
 public class arithmeticAndTypes {
 
-  public String exapmples(){
+  public static void main(String[] args) {
     byte number = 123;
       short number2 = -4000;
       int number3 = 290000;
