@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Task2 {
     public static void main(String[] args) {
       short number = 39;
       System.out.println("Десятки: " + number/10);
