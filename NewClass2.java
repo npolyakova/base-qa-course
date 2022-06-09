@@ -1,6 +1,6 @@
-public class NewClass2 {
+public class Task1 {
 
-  public String sayHelloFromNewClass(){
+  public static void main(String[] args) {
     double days = 234;
       short weeks = 234/7;
       System.out.println(weeks);
